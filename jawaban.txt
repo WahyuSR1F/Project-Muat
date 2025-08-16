@@ -1,0 +1,15 @@
+Ceritakan dengan singkat, apa kelebihanmu sehingga bisa disebut Backend Programmer ?
+Jawaban : Menurut saya Backend Programmer adalah sebuah core dari sistem, kemampuan merancang dan membangung
+asitektur yang rapi dan pengoptimalan dari sisi server, mulai desain database yang efisien, pembuatan API yang aman
+dan struktur, pegembangna code berkelanjutan, sehingga data dapat diperoses secara andal.
+
+Pengetahuan mengenai Connecting Pool ?
+Jawaban : Connecting Pool merupakan konsep desain patern dalam mengatur mekanisme untuk mengelolah dan myimpan 
+sekumpulan koneksi dapat dilihat pada folder databases proses config database nanti disana bisa dilakukan
+koneksi ke database lain, keuntungan Connecting pool membuat koneksi bisa reuse, membantasi jumlah koneksi aktif agar
+database sistem tidak kelebihan beban
+
+Konsep Migrate pada PostgressSQL ?
+Jawaban : konsep dalam membuat bluprint database untuk kemudahan dalam mengatur, perencaan asitektur desain database
+mulai dari hubungan data, memudahkan dalam pembacaan sistem basis data digunakan, serta sebagai packet kemudahan dalam 
+migrasi sistem ke sistem lain, tanpa takut terjadinya ketidakonsisten database.
